@@ -1,6 +1,19 @@
 Assignments for Udacity Deep Learning class with TensorFlow
 ===========================================================
 
+Class website
+-------------------------------------------------------------
+
+https://www.udacity.com/course/deep-learning--ud730
+
+Tensorflow Download and Setup
+-------------------------------------------------------------
+
+See install instructions 
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md
+
+
+
 Running the Docker container from the Google Cloud repository
 -------------------------------------------------------------
 
